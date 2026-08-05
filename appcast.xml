@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+     xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"
+     xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Nublet</title>
+    <description>Updates for Nublet — your whole toolkit, in the notch.</description>
+    <language>en</language>
+
+    <!--
+      One <item> per release, newest first. Don't hand-write these:
+      `Scripts/package.sh` builds + notarizes the DMG and prints a complete
+      <item> block (with the correct length + sparkle:edSignature) to paste
+      right here. Upload the DMG as a GitHub Release asset first so its
+      download URL matches the <enclosure url>.
+
+      Example of what one release looks like:
+
+      <item>
+        <title>0.14.0</title>
+        <pubDate>Sat, 19 Jul 2026 10:00:00 +0700</pubDate>
+        <sparkle:version>0.14.0</sparkle:version>
+        <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
+        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+        <description><![CDATA[
+          <ul><li>New: clipboard sequential paste (⌃⌘↓)</li></ul>
+        ]]></description>
+        <enclosure
+          url="https://github.com/you/pspsps/releases/download/v0.14.0/pspsps-0.14.0.dmg"
+          sparkle:edSignature="BASE64_SIGNATURE_FROM_package.sh"
+          length="12345678"
+          type="application/octet-stream" />
+      </item>
+    -->
+
+  </channel>
+</rss>
