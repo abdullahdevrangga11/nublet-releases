@@ -26,12 +26,36 @@
           <ul><li>New: clipboard sequential paste (⌃⌘↓)</li></ul>
         ]]></description>
         <enclosure
-          url="https://github.com/you/pspsps/releases/download/v0.14.0/pspsps-0.14.0.dmg"
+          url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.14.0/Nublet-0.14.0.dmg"
           sparkle:edSignature="BASE64_SIGNATURE_FROM_package.sh"
           length="12345678"
           type="application/octet-stream" />
       </item>
     -->
+
+    <item>
+      <title>0.19.0</title>
+      <pubDate>Wed, 12 Aug 2026 22:27:26 +0700</pubDate>
+      <sparkle:version>0.19.0</sparkle:version>
+      <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>First public release.</p>
+        <ul>
+          <li>The notch replaces the macOS volume and brightness bezel with one readout — or sits alongside it, if you prefer both.</li>
+          <li>On-device dictation: Apple's engine for everyday speech, an optional Whisper model for ~99 languages including Indonesian.</li>
+          <li>A visual clipboard history you can search, pin, and paste back anywhere.</li>
+          <li>Fast screen capture on ⌘⇧3/4/5, straight into Quick Access — no floating thumbnail.</li>
+          <li>A live companion for Claude Code and Codex: watch each step, approve tool calls, and answer its questions in the notch.</li>
+          <li>Focus timers, app blocking, a file shelf, and now-playing controls.</li>
+        </ul>
+        <p>Everything runs on your Mac. Your voice, clipboard, screenshots, and agent transcripts are never uploaded.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.19.0/Nublet-0.19.0.dmg"
+        sparkle:edSignature="WuQXXWvZ4LRQeF1s/FBVvkSQYM4HFuK+Zu5gmnuV7PVVJI8moxpOGRVkXbVLch5N13N1WR7oGUQghVirbK0lBw==" length="42019459"
+        type="application/octet-stream" />
+    </item>
 
   </channel>
 </rss>
