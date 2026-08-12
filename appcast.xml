@@ -35,7 +35,7 @@
 
     <item>
       <title>0.19.0</title>
-      <pubDate>Wed, 12 Aug 2026 22:27:26 +0700</pubDate>
+      <pubDate>Wed, 12 Aug 2026 22:49:54 +0700</pubDate>
       <sparkle:version>0.19.0</sparkle:version>
       <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
@@ -53,7 +53,7 @@
       ]]></description>
       <enclosure
         url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.19.0/Nublet-0.19.0.dmg"
-        sparkle:edSignature="WuQXXWvZ4LRQeF1s/FBVvkSQYM4HFuK+Zu5gmnuV7PVVJI8moxpOGRVkXbVLch5N13N1WR7oGUQghVirbK0lBw==" length="42019459"
+        sparkle:edSignature="FwNVwjZSVzQ9RW3DQ5amv1kqqEwEFU21Jug4xgGsPD8vMZT41gdNTWOolbp+mSxZzK6mqOVYwg+hlzRBBi3cCQ==" length="42019437"
         type="application/octet-stream" />
     </item>
 
