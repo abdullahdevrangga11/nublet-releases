@@ -8,52 +8,43 @@
     <language>en</language>
 
     <!--
-      One <item> per release, newest first. Don't hand-write these:
-      `Scripts/package.sh` builds + notarizes the DMG and prints a complete
-      <item> block (with the correct length + sparkle:edSignature) to paste
-      right here. Upload the DMG as a GitHub Release asset first so its
-      download URL matches the <enclosure url>.
+      One <item> per release, NEWEST FIRST. Don't hand-write these: `Scripts/package.sh` builds and
+      notarizes the DMG and prints a complete <item> with the real length and edSignature — paste
+      that, then upload the DMG as the release asset.
 
-      Example of what one release looks like:
+      TWO THINGS THAT MUST BE RIGHT, because both fail silently:
 
-      <item>
-        <title>0.14.0</title>
-        <pubDate>Sat, 19 Jul 2026 10:00:00 +0700</pubDate>
-        <sparkle:version>0.14.0</sparkle:version>
-        <sparkle:shortVersionString>0.14.0</sparkle:shortVersionString>
-        <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-        <description><![CDATA[
-          <ul><li>New: clipboard sequential paste (⌃⌘↓)</li></ul>
-        ]]></description>
-        <enclosure
-          url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.14.0/Nublet-0.14.0.dmg"
-          sparkle:edSignature="BASE64_SIGNATURE_FROM_package.sh"
-          length="12345678"
-          type="application/octet-stream" />
-      </item>
+      * `sparkle:version` is compared against the app's CFBundleVersion — the BUILD NUMBER, not the
+        marketing version. If it reads "0.19.0" while the app reports "264", Sparkle is comparing a
+        string to an integer and the update is simply never offered.
+      * `length` must be the DMG's exact byte count and `edSignature` its real signature. This file
+        shipped for weeks with `length="12345678"` and
+        `edSignature="BASE64_SIGNATURE_FROM_package.sh"` — the literal placeholders — which means
+        auto-update has never worked for anyone.
     -->
 
     <item>
       <title>0.19.0</title>
-      <pubDate>Wed, 12 Aug 2026 22:49:54 +0700</pubDate>
-      <sparkle:version>0.19.0</sparkle:version>
+      <pubDate>Fri, 21 Aug 2026 21:29:35 +0700</pubDate>
+      <sparkle:version>264</sparkle:version>
       <sparkle:shortVersionString>0.19.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
       <description><![CDATA[
-        <p>First public release.</p>
         <ul>
-          <li>The notch replaces the macOS volume and brightness bezel with one readout — or sits alongside it, if you prefer both.</li>
-          <li>On-device dictation: Apple's engine for everyday speech, an optional Whisper model for ~99 languages including Indonesian.</li>
-          <li>A visual clipboard history you can search, pin, and paste back anywhere.</li>
-          <li>Fast screen capture on ⌘⇧3/4/5, straight into Quick Access — no floating thumbnail.</li>
-          <li>A live companion for Claude Code and Codex: watch each step, approve tool calls, and answer its questions in the notch.</li>
-          <li>Focus timers, app blocking, a file shelf, and now-playing controls.</li>
+          <li><b>Walk into a stashed folder</b> — drill in, browse, come back. Multi-select and drag several files out at once.</li>
+          <li><b>The shelf groups by drop</b> and holds 100 files by default, up from 24.</li>
+          <li><b>Edit a calendar event inside the notch</b>, with its own month picker instead of a system dialog.</li>
+          <li>Capture and Dictate moved to the Home page; the tab strip is quieter.</li>
+          <li><b>Fixed:</b> a crash when changing the app's text size — it affected ten windows, not one.</li>
+          <li><b>Fixed:</b> dragging a file out could arrive as a 0&nbsp;KB attachment.</li>
+          <li><b>Fixed:</b> the page icon vanished mid-swipe and the notch height wobbled with it.</li>
+          <li><b>Fixed:</b> the star and delete buttons never appeared on a clipboard card.</li>
         </ul>
-        <p>Everything runs on your Mac. Your voice, clipboard, screenshots, and agent transcripts are never uploaded.</p>
       ]]></description>
       <enclosure
         url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.19.0/Nublet-0.19.0.dmg"
-        sparkle:edSignature="FwNVwjZSVzQ9RW3DQ5amv1kqqEwEFU21Jug4xgGsPD8vMZT41gdNTWOolbp+mSxZzK6mqOVYwg+hlzRBBi3cCQ==" length="42019437"
+        sparkle:edSignature="A+2t0eoK956TdSkHLqVeMEWPeG37DfrXbeKI5vzeHhPJIMS9Cphqkqe/mjHdQH00Ja5ggy13zDgLtHBq9XfzDQ=="
+        length="51264360"
         type="application/octet-stream" />
     </item>
 
