@@ -24,6 +24,39 @@
     -->
 
     <item>
+      <title>0.20.0</title>
+      <pubDate>Tue, 25 Aug 2026 13:49:24 +0700</pubDate>
+      <sparkle:version>270</sparkle:version>
+      <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Fullscreen video shows artwork and the visualizer again.</b> The ambient media
+              layout was suppressed the whole time any app was fullscreen.</li>
+          <li><b>Transcripts keep their timings.</b> Click a line to seek the audio, and export a
+              recording as SRT, WebVTT, JSON, Markdown or plain text.</li>
+          <li><b>Fixed the most common crash</b> — the capture stack resized its own window from
+              inside SwiftUI's layout pass.</li>
+          <li><b>Arrow keys change track</b> while the notch is open on Home, and reaching the notch
+              by throwing the pointer to the top of the screen works.</li>
+          <li><b>Copy a screenshot as SVG</b> with its text kept as text, or copy a public page as
+              self-contained HTML.</li>
+          <li><b>The recorder has real transport controls</b>, transcribes non-English speech, and
+              stops playing when you close it.</li>
+          <li><b>Permission "Allow" buttons no longer dead-end</b>, and Speech Recognition has its
+              own row — declining it used to kill dictation with no way back.</li>
+          <li><b>A single failed licence check can no longer delete a paid key.</b></li>
+          <li>The stash shows the whole folder path, and switching Spaces fades the notch instead of
+              cutting it back.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.20.0/Nublet-0.20.0.dmg"
+        sparkle:edSignature="Rztr09VSH1OzBwPt5euSKEK8dL5p8tzLd3OWIxaIB28ib+XeQH6GpMXY4GuVlMP0AL+QsgZnwOSmiVdt2kD9Dw==" length="51461788"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.19.0</title>
       <pubDate>Fri, 21 Aug 2026 21:29:35 +0700</pubDate>
       <sparkle:version>266</sparkle:version>
