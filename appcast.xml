@@ -24,6 +24,53 @@
     -->
 
     <item>
+      <title>0.21.0</title>
+      <pubDate>Sun, 20 Sep 2026 18:29:04 +0700</pubDate>
+      <sparkle:version>317</sparkle:version>
+      <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <ul>
+          <li><b>Motion — the recorder and video editor — is properly built.</b> The cursor you were
+              actually pointing with, the zooms you placed, the crop, the webcam bubble, the
+              transitions and the captions all reach the exported file now, through one render path
+              instead of a preview that showed one thing and an export that made another.</li>
+          <li><b>Let go of an area drag and the rectangle stays</b>, with eight handles: resize it,
+              nudge it with the arrow keys, move it from the middle, then press return. Two pixels
+              off no longer means starting over. Turn it off in Settings if you prefer the old
+              release-and-shoot.</li>
+          <li><b>Steer the element under the pointer</b> while selecting — the scroll wheel, or
+              <code>[</code> and <code>]</code>, walk out to the container and back in to the child.</li>
+          <li><b>Live transcription starts in a second or two, not fifteen</b>, and Nublet stops
+              deleting your downloaded speech model — a cleanup routine had been sweeping it on
+              every launch since August.</li>
+          <li><b>Summaries come back in one language, named explicitly.</b> An Indonesian video is
+              summarised in Indonesian every time, a long source is read in pieces rather than cut
+              off, and a summary that could only read part of its source now says so.</li>
+          <li><b>Long shots stop repeating themselves.</b> A page with a sticky header, a fixed
+              bottom bar and a floating badge is captured whole, and scroll-through video films the
+              article instead of the navigation sidebar.</li>
+          <li><b>Right-click a screenshot to copy its text</b>, and choose whether the card leaves
+              after a copy or stays so you can still drag the image somewhere.</li>
+          <li><b>Capture and Dictate are tiles on Home</b>, with a glance cell under them showing a
+              running focus timer, then anything due, then your status tokens. Capture opens the HUD
+              in the notch on ⌥⌘C.</li>
+          <li><b>Dark mode, a new app icon, and a Sound pane</b> for the 34 sounds that used to be
+              two toggles. The stash fits the screen and takes a run of items at once.</li>
+          <li><b>A Claude Code companion in the notch</b> — a session inbox, approval cards that show
+              the change rather than the filename, quiet hours, and answering from the keyboard.</li>
+          <li>Plus around two hundred fixes: a crash when a window resized itself inside SwiftUI's
+              layout pass, event taps going deaf silently, pages clipped by the notch, and a release
+              that could report success after Apple refused to timestamp it.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.21.0/Nublet-0.21.0.dmg"
+        sparkle:edSignature="ADyTAPvZr+0DYenMPbWwmkAyvll1LSQdNzBafOXgbiDbFsKZuyfkfuFd1S6uOavnHSWJyXggTjrkt80d4OfHAQ==" length="52660674"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.20.0</title>
       <pubDate>Tue, 25 Aug 2026 13:49:24 +0700</pubDate>
       <sparkle:version>270</sparkle:version>
