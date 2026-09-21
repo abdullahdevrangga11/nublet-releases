@@ -24,6 +24,38 @@
     -->
 
     <item>
+      <title>0.21.1</title>
+      <pubDate>Mon, 21 Sep 2026 23:14:07 +0700</pubDate>
+      <sparkle:version>321</sparkle:version>
+      <sparkle:shortVersionString>0.21.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Nublet no longer crashes while the speech model loads &mdash; two copies of the 632&nbsp;MB
+        model could end up loading at once and macOS aborted the app.</p>
+        <ul>
+          <li><b>The magnifier no longer leaves copies of itself behind</b> while you drag a
+          selection handle.</li>
+          <li><b>The scroll wheel steps in and out of nested elements</b>, like <code>[</code> and
+          <code>]</code>. A notched wheel was being measured in a trackpad&rsquo;s units, so one
+          level took about two dozen clicks.</li>
+          <li><b>Space still moves the selection</b> after you let go of the mouse &mdash; and the
+          key is no longer passed through to the app underneath.</li>
+          <li><b>Hovering a selection handle shows a resize pointer</b> instead of the crosshair or
+          the hand.</li>
+          <li><b>Dragging a selection no longer makes the screen behind it look soft or
+          pixelated.</b></li>
+          <li><b>Clicking a detected window, button or panel takes the shot straight away.</b>
+          Drawing a selection yourself still gives you the handles.</li>
+          <li>The trial is seven days.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.21.1/Nublet-0.21.1.dmg"
+        sparkle:edSignature="QNTMYU0ttNmdxKmzOn86JAuadDYjX2616l6ogtk4V9Gt+vR8TDXM69AsHGCg2nkXnDuBsqghbK358jPxyT0bBg==" length="53135967"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.21.0</title>
       <pubDate>Sun, 20 Sep 2026 18:29:04 +0700</pubDate>
       <sparkle:version>317</sparkle:version>
