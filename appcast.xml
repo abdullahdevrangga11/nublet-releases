@@ -24,6 +24,31 @@
     -->
 
     <item>
+      <title>0.21.2</title>
+      <pubDate>Sat, 26 Sep 2026 21:49:35 +0700</pubDate>
+      <sparkle:version>322</sparkle:version>
+      <sparkle:shortVersionString>0.21.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>A crash-fix release, and nothing else. If Nublet has closed on you unexpectedly in the
+        last week, this is very likely why.</p>
+        <ul>
+          <li><b>Transcribing a recording with no sound no longer closes Nublet.</b> The most common
+          crash in the app &mdash; a screen recording made with the microphone and system audio off
+          has no audio track, and macOS&rsquo;s speech recogniser failed on it in a way that took the
+          app down. Nublet now checks first and tells you there is nothing to transcribe.</li>
+          <li><b>Exporting a Motion edit no longer crashes on certain frames.</b> A frame the effects
+          chain could not draw now comes out as the original footage instead.</li>
+          <li><b>Scroll capture and the floating shelf no longer crash</b> when they open or resize.</li>
+        </ul>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.21.2/Nublet-0.21.2.dmg"
+        sparkle:edSignature="k9rYzYZIieuCEmUYXy7wLKj7rXi7issmPRrwQxfY+Qub9fq1pTGJueJpOewni+LMhd9A8EZ1m+OmDeDVLP+1Dw==" length="53150356"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.21.1</title>
       <pubDate>Mon, 21 Sep 2026 23:14:07 +0700</pubDate>
       <sparkle:version>321</sparkle:version>
