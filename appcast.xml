@@ -24,6 +24,32 @@
     -->
 
     <item>
+      <title>0.23.0</title>
+      <pubDate>Sun, 18 Oct 2026 11:19:06 +0700</pubDate>
+      <sparkle:version>323</sparkle:version>
+      <sparkle:shortVersionString>0.23.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <p>This release also includes 0.22.0, which was never released on its own.</p>
+        <ul>
+          <li>Voice Assistant (⌃⌥A): ask by voice. It edits selected text, answers at your cursor or in the notch, and reads your calendar and notes.</li>
+          <li>Meetings: Nublet notices calls and offers to record them, with live captions, speakers told apart on your Mac, and notes afterwards.</li>
+          <li>Nublet notes: Markdown files with folders, search, AI actions and chat.</li>
+          <li>AI and speech to text run on your Mac unless you pick a provider with your own key. Only then does that audio or text leave your Mac — that, and what an AI tool you connect reads of your notes.</li>
+          <li>Dictation: Dictate &amp; translate (⌃⌥T), AI cleanup, new kinds of key and a fuller History.</li>
+          <li>Claude Code, Claude Desktop and Cursor can read your notes.</li>
+          <li>From 0.22.0: recording controls in the notch, crash-safe recordings, Measure and the Studio editor beta.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.23.0/Nublet-0.23.0.dmg"
+        sparkle:edSignature="WWkXEQQ+Z95EMhU5lu490+6EMP6l7nfanUFLwXigXH75YtraSSG5bhmZ0fQ+EezjCblzQ5Ve7RvHcsXQHCOVCw==" length="74007024"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.21.2</title>
       <pubDate>Sat, 26 Sep 2026 21:49:35 +0700</pubDate>
       <sparkle:version>322</sparkle:version>
