@@ -24,6 +24,32 @@
     -->
 
     <item>
+      <title>0.24.0</title>
+      <pubDate>Wed, 21 Oct 2026 12:16:05 +0700</pubDate>
+      <sparkle:version>324</sparkle:version>
+      <sparkle:shortVersionString>0.24.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Meetings: type your notes beside the call, and the summary afterwards is built on them. Generate summary with templates, What did I miss? during a call, a Meetings page, today's meetings on Home, and notifications when a call starts and when its notes are ready.</li>
+          <li>Meeting notes written on your Mac come much sooner, from the biggest model you downloaded, and live captions follow the call's language.</li>
+          <li>What did I miss? and meeting notes go to a provider only if you picked one for Notes; otherwise they're written on your Mac.</li>
+          <li>Converter: PDFs, images, video, audio and documents merged, split, compressed or converted, all on your Mac and never uploaded.</li>
+          <li>Studio editor (beta): a dark graphite look, Canvas and Layout pages with 80 wallpapers and layout presets, two cameras in one take, a Library, a Clips bin, editing by reading the transcript, caption looks, Remove noise and more.</li>
+          <li>One window: Notes, the Voice Recorder, Clipboard History, the Prompter and the chat are pages of the Home window.</li>
+          <li>The notch: Back, the recording you're making one tap away, and your camera live in the notch while it records.</li>
+          <li>Fixed: ⌘K takes the keyboard and closes with Esc, a camera freeze and a camera crash, and on macOS 26 the glass notch styles are clear Liquid Glass.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.24.0/Nublet-0.24.0.dmg"
+        sparkle:edSignature="klVZ5tVAFXKI4LLVS2vWe367jWse13ekWqaLWR39nyVt4AgWM9viqKblxBPnJJqbYntfyALVnhnrvdQQ++iFCA==" length="76545794"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.23.0</title>
       <pubDate>Sun, 18 Oct 2026 11:19:06 +0700</pubDate>
       <sparkle:version>323</sparkle:version>
