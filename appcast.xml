@@ -24,6 +24,31 @@
     -->
 
     <item>
+      <title>0.25.0</title>
+      <pubDate>Wed, 28 Oct 2026 03:45:20 +0700</pubDate>
+      <sparkle:version>325</sparkle:version>
+      <sparkle:shortVersionString>0.25.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>The notch is the app: one window, Settings, and everything else in the notch. Notes, the Voice Recorder with its library, Clipboard History, Ask, the Teleprompter and a new Convert page.</li>
+          <li>Settings, redone: one look, short lines, Settings ▸ Notch in five tabs, a Home editor with a live preview, quick actions, and floating buttons (off by default).</li>
+          <li>Recording: your camera in the notch instead of a bubble, never in the video, and you can switch cameras mid-take.</li>
+          <li>Meetings: transcribed in the language spoken, no invented lines, your mic's echo of the call removed, and every line labelled You or Speaker 1 (or their name).</li>
+          <li>Studio (beta): 64 procedural gradients and a Gradient Editor, layouts you size card by card, layout keyframes, captions corrected several at once, edits shown at once while paused, tooltips and drag-to-change fields.</li>
+          <li>Screenshots: the editor redone. Sharp at Fit, real pixel sizes, undo for every change, and a question before closing loses work.</li>
+          <li>A new look: Nublet's pixel mascot and 16-bit scenery, and a calmer onboarding.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.0/Nublet-0.25.0.dmg"
+        sparkle:edSignature="PCEOYsVi2qGLG4LwdDpCc8VtZ6DX+y16/z5t3GksKcX4ZO8HQ1XU3EvZ+vgKPl6F09nkFNJbx0uz3TT5rLvPBw==" length="70124136"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.24.0</title>
       <pubDate>Wed, 21 Oct 2026 12:16:05 +0700</pubDate>
       <sparkle:version>324</sparkle:version>
