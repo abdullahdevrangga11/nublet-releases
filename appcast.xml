@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.25.1</title>
+      <pubDate>Wed, 28 Oct 2026 14:48:16 +0700</pubDate>
+      <sparkle:version>326</sparkle:version>
+      <sparkle:shortVersionString>0.25.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>The Studio is no longer a beta: it is on for everyone, with Studio beside Record on Home.</li>
+          <li>Meetings: a group call's other side keeps every voice instead of one "Speaker 1", and long recordings lose fewer words.</li>
+          <li>Convert: a calmer page, and drop files at the notch on the Stash or on Convert.</li>
+          <li>Clipboard: each clip's right-click menu offers only what fits it.</li>
+          <li>Studio: in a split layout, a zoom keeps the screen inside its card.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.1/Nublet-0.25.1.dmg"
+        sparkle:edSignature="59puP/spb1I+UHB8VOuQoytAVhu+JY0FTGC+dnoXtkCfCgNUgqKiJnhYes0yuDh0AgBZHIcFaqLblH6+f75PAQ==" length="70128167"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.0</title>
       <pubDate>Wed, 28 Oct 2026 03:45:20 +0700</pubDate>
       <sparkle:version>325</sparkle:version>
