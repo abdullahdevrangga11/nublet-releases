@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.3</title>
+      <pubDate>Wed, 28 Oct 2026 22:59:56 +0700</pubDate>
+      <sparkle:version>328</sparkle:version>
+      <sparkle:shortVersionString>0.25.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Fixed: transcribing a long recording no longer crashes Nublet.</li>
+          <li>Fixed: holding Space while you draw a screenshot area moves the box again.</li>
+          <li>Studio: a Padding slider, a position grid that always works, Reset, and snapping while you drag.</li>
+          <li>The notch: two-part strips read left and right again.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.3/Nublet-0.25.3.dmg"
+        sparkle:edSignature="ho5B9SDjQyPdP87dTGDoyBOwU2X96yK7NKrOKJZRZ7eOewMHrrO9dpPSyfyrq4mbpbYZvAPB4NzTGXevOAC0Ag==" length="70260677"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.2</title>
       <pubDate>Wed, 28 Oct 2026 18:06:42 +0700</pubDate>
       <sparkle:version>327</sparkle:version>
