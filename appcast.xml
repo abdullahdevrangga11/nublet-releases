@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.25.2</title>
+      <pubDate>Wed, 28 Oct 2026 18:06:42 +0700</pubDate>
+      <sparkle:version>327</sparkle:version>
+      <sparkle:shortVersionString>0.25.2</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Studio: new recordings open side by side on a gradient, with pauses and filler words cleaned up (Undo any time).</li>
+          <li>Screenshots: a drawn area is captured the moment you let go, as ⇧⌘4 does.</li>
+          <li>Dictation: fn with another key, such as fn+F12, no longer starts dictation.</li>
+          <li>The notch: words start on the left in solid colours, a simpler Convert page, and a tidier meeting card.</li>
+          <li>Focus: Pomodoro, Countdown and Stopwatch as three tiles; a calmer onboarding.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.2/Nublet-0.25.2.dmg"
+        sparkle:edSignature="8HuTQcaC/61KIZoHDIXzo456aqCo40KsyXO6mbXKGatUNyxHLk2KAhsGr0v18DJtI3s+d5tmC+xqWru3tC0tCA==" length="70170413"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.1</title>
       <pubDate>Wed, 28 Oct 2026 14:48:16 +0700</pubDate>
       <sparkle:version>326</sparkle:version>
