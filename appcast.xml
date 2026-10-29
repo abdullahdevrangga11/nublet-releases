@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.4</title>
+      <pubDate>Thu, 29 Oct 2026 17:42:42 +0700</pubDate>
+      <sparkle:version>329</sparkle:version>
+      <sparkle:shortVersionString>0.25.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Clipboard: transcripts for a whole YouTube playlist, or several selected links, in one go.</li>
+          <li>Studio: an automatic layout for new recordings, a camera cut-out that works again, and Enhance voice by default.</li>
+          <li>Screenshots: ⇧⌘3 takes the display your pointer is on.</li>
+          <li>The notch and Settings: recording controls that fill their bar, a Markup-style Annotate drawer, Settings in one centred panel.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.4/Nublet-0.25.4.dmg"
+        sparkle:edSignature="zlkSjbr/84BTw6iKy9Uuf+XjJoa4xgrQmAVlZT9GHPLLoFj8n6qfrDoW7roYe1SlhYishwr+trhsP2LBhOOjBg==" length="70384938"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.3</title>
       <pubDate>Wed, 28 Oct 2026 22:59:56 +0700</pubDate>
       <sparkle:version>328</sparkle:version>
