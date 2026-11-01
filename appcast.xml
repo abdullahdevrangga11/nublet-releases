@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.5</title>
+      <pubDate>Sun, 01 Nov 2026 17:06:00 +0700</pubDate>
+      <sparkle:version>330</sparkle:version>
+      <sparkle:shortVersionString>0.25.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Dictation: a new paragraph when you pause, spoken lists and symbols, longer self-corrections, and a style per app or site.</li>
+          <li>AI cleanup is on by default on Macs whose own model does it well, and uses the names on your screen as spellings.</li>
+          <li>Settings and onboarding are grey throughout, with a buy step and a Pro card when your key is accepted.</li>
+          <li>Studio: captions by themselves, fillers and pauses in one pass, and editing several blocks at once.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.5/Nublet-0.25.5.dmg"
+        sparkle:edSignature="p7cUR7Mba+YcUIRNgse26C4TOnPrl/i187qj+FvRqx3JEL21V8mrYYvCXE+Tf4lY0EBSKMa5FmOxz/qS5nTqAw==" length="70446005"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.4</title>
       <pubDate>Thu, 29 Oct 2026 17:42:42 +0700</pubDate>
       <sparkle:version>329</sparkle:version>
