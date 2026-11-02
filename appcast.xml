@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.8</title>
+      <pubDate>Mon, 02 Nov 2026 16:19:23 +0700</pubDate>
+      <sparkle:version>333</sparkle:version>
+      <sparkle:shortVersionString>0.25.8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Nublet's text is Inter, bundled with the app.</li>
+          <li>Dictation hears quiet microphones to the last word, and drops a "Thank you." you didn't say.</li>
+          <li>Typing and fan noise no longer turn into words.</li>
+          <li>Stash tiles fill the whole row, and an agent's question shows all its options again.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.8/Nublet-0.25.8.dmg"
+        sparkle:edSignature="LLDbm2cKx7OgNyQ6MMNUKHY9nX2W9wTjHvwIjMUzEc8PuRlecCR/Ck55ZFz0HY6LPCgtgLu9Xkz8Rwr0Q0jNAA==" length="71369020"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.7</title>
       <pubDate>Mon, 02 Nov 2026 14:40:23 +0700</pubDate>
       <sparkle:version>332</sparkle:version>
