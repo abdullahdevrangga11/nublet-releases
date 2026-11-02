@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.9</title>
+      <pubDate>Mon, 02 Nov 2026 18:11:51 +0700</pubDate>
+      <sparkle:version>334</sparkle:version>
+      <sparkle:shortVersionString>0.25.9</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Pro is $49 once for 2 Macs. Free for good: the notch, the agent companion, plain screenshots, your last 10 clips and 2,000 dictation words a week.</li>
+          <li>Some Pro features were reachable for free by mistake; they are Pro now.</li>
+          <li>Notch Annotate gains Ratio, Padding and Corners; the Mirror tab reads Camera mid-recording; Settings opens without a stutter.</li>
+          <li>One saturated orange, a shorter onboarding, and a new installer window.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.9/Nublet-0.25.9.dmg"
+        sparkle:edSignature="0hXb4DbrF5PxL1artOsOI8/KQy24FKJSCaZUAdVWn1QAR8Nve5L129zGA8Ujnf9snSMliDc4//yfUnbKj6MIBg==" length="71980222"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.8</title>
       <pubDate>Mon, 02 Nov 2026 16:19:23 +0700</pubDate>
       <sparkle:version>333</sparkle:version>
