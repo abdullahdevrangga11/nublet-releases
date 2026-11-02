@@ -24,6 +24,26 @@
     -->
 
     <item>
+      <title>0.25.7</title>
+      <pubDate>Mon, 02 Nov 2026 14:40:23 +0700</pubDate>
+      <sparkle:version>332</sparkle:version>
+      <sparkle:shortVersionString>0.25.7</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Stash tiles fill the whole row, and the camera on the closed notch opens the camera page mid-take.</li>
+          <li>The Dev page is at most 420 pt tall, Ports and Terminal use all of it, and the terminal draws prompt icons with your Nerd Font.</li>
+          <li>Studio: Music is now Audio, Background and Layout in a 2×2 grid, and a shorter filler row.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.7/Nublet-0.25.7.dmg"
+        sparkle:edSignature="qr0q5APFXbeUsXT3ndommqlRSRvMhcboP4DxryYzQs8HrzAd40kPTeguaWW9W2WfzI4b9BXxV3H0/QIjbsglAQ==" length="71587591"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.6</title>
       <pubDate>Mon, 02 Nov 2026 12:21:02 +0700</pubDate>
       <sparkle:version>331</sparkle:version>
