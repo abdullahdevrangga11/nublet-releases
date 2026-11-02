@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.6</title>
+      <pubDate>Mon, 02 Nov 2026 12:21:02 +0700</pubDate>
+      <sparkle:version>331</sparkle:version>
+      <sparkle:shortVersionString>0.25.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Text AI — cleanup, rewrites, summaries, the assistant — runs only on an AI key you add in Settings ▸ AI. If it ran on Apple Intelligence or Qwen, add a key to keep it.</li>
+          <li>Whisper Turbo hears every take on your Mac. If you used Apple's recognizer, get Turbo in Settings ▸ Dictation.</li>
+          <li>Settings ▸ AI shows what your key should cost a month.</li>
+          <li>A new Pro moment and opening, grey Settings and onboarding, and a feedback form that reaches us.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.6/Nublet-0.25.6.dmg"
+        sparkle:edSignature="RNWfHr+6ijKFmkySZpzzbgarcmsr3NfEroUMNiUEzIeyyqtUHl20K1byfeawHC47qXzs508jv3+v3pnRDxS0DA==" length="71591077"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.5</title>
       <pubDate>Sun, 01 Nov 2026 17:06:00 +0700</pubDate>
       <sparkle:version>330</sparkle:version>
