@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.10</title>
+      <pubDate>Tue, 03 Nov 2026 15:23:15 +0700</pubDate>
+      <sparkle:version>335</sparkle:version>
+      <sparkle:shortVersionString>0.25.10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Studio: Cut video or Cut transcript from a transcript selection, a Magnifier zoom, and format switches that re-aim zooms, cameras and captions.</li>
+          <li>Smart framing, Hide when silent, and Podcast voice (beta).</li>
+          <li>Recording: size the window first and hide desktop icons. Footage motion blur and opt-in Sharper close zooms on macOS 26.</li>
+          <li>A tidier Settings, and Capture's second press works again.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.10/Nublet-0.25.10.dmg"
+        sparkle:edSignature="E6mSyZB5LKdp5ENXitOHsndZ0F+C1E9dqy/ZnKQFGze/uu5OJTZz/t74Z1ujjw7rTVIPGdyOwBYaCyZLgFf3Dw==" length="72251805"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.9</title>
       <pubDate>Mon, 02 Nov 2026 18:11:51 +0700</pubDate>
       <sparkle:version>334</sparkle:version>
