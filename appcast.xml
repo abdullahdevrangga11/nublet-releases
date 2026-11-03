@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.11</title>
+      <pubDate>Tue, 03 Nov 2026 20:53:33 +0700</pubDate>
+      <sparkle:version>336</sparkle:version>
+      <sparkle:shortVersionString>0.25.11</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Studio: a glass magnifier that grows out of the pointer, and Speed up typing (opt-in, key times only).</li>
+          <li>Voiceover from a typed script, in a system voice or your Personal Voice.</li>
+          <li>Send the editable project as one .nubletproject file.</li>
+          <li>Shorter Studio notes, and imports show as rows in the Voice list.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.11/Nublet-0.25.11.dmg"
+        sparkle:edSignature="HI2/OY90HBbtX0ubyIO+hr53ipui7wMke+S4ve1G9Ibj8cb58LjrX0mJns1Ht+wfsaDSCp8SlKwuVl3kCl5xCg==" length="72516005"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.10</title>
       <pubDate>Tue, 03 Nov 2026 15:23:15 +0700</pubDate>
       <sparkle:version>335</sparkle:version>
