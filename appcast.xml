@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.12</title>
+      <pubDate>Tue, 03 Nov 2026 23:47:21 +0700</pubDate>
+      <sparkle:version>337</sparkle:version>
+      <sparkle:shortVersionString>0.25.12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>New recordings start with motion blur, a bigger pointer and no click rings.</li>
+          <li>The magnifier's sliders reach further, and the Studio inspector no longer spills past its edge.</li>
+          <li>Stash keeps its padding, and reopening the notch keeps your page while an agent works.</li>
+          <li>No red outline round the notch during a recording.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.12/Nublet-0.25.12.dmg"
+        sparkle:edSignature="5ejVQOzbHkvOGIxGvW+i/ZsjVWXxI3RVcDYer+vr/t6kko2uKFwHeWphFKZoe2UgWJMs2XhfPGBglU2f1OmtBg==" length="72525867"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.11</title>
       <pubDate>Tue, 03 Nov 2026 20:53:33 +0700</pubDate>
       <sparkle:version>336</sparkle:version>
