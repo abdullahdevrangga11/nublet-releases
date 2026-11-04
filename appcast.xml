@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.14</title>
+      <pubDate>Wed, 04 Nov 2026 22:44:15 +0700</pubDate>
+      <sparkle:version>339</sparkle:version>
+      <sparkle:shortVersionString>0.25.14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Remove noise runs DeepFilterNet 3, built in: a cleaner, more natural voice, still on your Mac.</li>
+          <li>Move, resize and round the screen and camera on the preview, with Figma's keys.</li>
+          <li>Edit text in place with no ghost copy; line height, letter spacing, casing and caption alignment.</li>
+          <li>A calmer Teleprompter page, a new installer, and fixes to pins, Annotate padding and the capture backdrop.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.14/Nublet-0.25.14.dmg"
+        sparkle:edSignature="N6dMlwOqpMsYa5Lk8RJpG+0WhtpYpsGB+kuBEgkUMBL5fZW/3b1HU6MA9APeAwgTctRUUuPqj037oJzIJyj+BQ==" length="87635880"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.13</title>
       <pubDate>Wed, 04 Nov 2026 12:38:48 +0700</pubDate>
       <sparkle:version>338</sparkle:version>
