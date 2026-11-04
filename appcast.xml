@@ -24,6 +24,27 @@
     -->
 
     <item>
+      <title>0.25.13</title>
+      <pubDate>Wed, 04 Nov 2026 12:38:48 +0700</pubDate>
+      <sparkle:version>338</sparkle:version>
+      <sparkle:shortVersionString>0.25.13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Teleprompter in the notch that follows your voice, with scripts in scenes.</li>
+          <li>Record one scene at a time; Retry keeps the take, and you pick the one used.</li>
+          <li>Studio: a text format bar on the preview, snapping and a grid, and AI tools you connect can edit videos.</li>
+          <li>Type a timer's length; Deep Focus hides blocked apps instead of quitting them.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.13/Nublet-0.25.13.dmg"
+        sparkle:edSignature="3DjUxl4YNayrt7QaEVFoToypsOJ/Rt200IZooym9UIPFH5v7b2/c4ysohWSZ9eHTxRJkQNcArV7yaH8G9ntwDg==" length="73174340"
+        type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.25.12</title>
       <pubDate>Tue, 03 Nov 2026 23:47:21 +0700</pubDate>
       <sparkle:version>337</sparkle:version>
