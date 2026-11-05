@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.16</title>
+      <pubDate>Thu, 05 Nov 2026 16:18:53 +0700</pubDate>
+      <sparkle:version>341</sparkle:version>
+      <sparkle:shortVersionString>0.25.16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>A simpler export: Fast, Balanced or Best, with every control under Custom settings.</li>
+          <li>The teleprompter follows your voice or scrolls on its own at the pace you pick, and no text is cut off.</li>
+          <li>Play any take right on the Teleprompter page.</li>
+          <li>Tighter Live captions on a solid background, and a full-resolution preview by default.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.16/Nublet-0.25.16.dmg"
+        sparkle:edSignature="uxmkhNSXGyYtONwYVhB0IrfZBMBSdiP0Im165xCJJI5KR1zxZdqzSFOjkRtzsrBWSuIMSlIsbFV93gqEjWo4BA==" length="87841274"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.15</title>
       <pubDate>Thu, 05 Nov 2026 12:14:23 +0700</pubDate>
       <sparkle:version>340</sparkle:version>
