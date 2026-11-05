@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.25.15</title>
+      <pubDate>Thu, 05 Nov 2026 12:14:23 +0700</pubDate>
+      <sparkle:version>340</sparkle:version>
+      <sparkle:shortVersionString>0.25.15</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Live captions, the new default: each word joins as it is said, and the box grows smoothly round it.</li>
+          <li>Select and move every card on the preview in every layout, later layout blocks included.</li>
+          <li>A sharper preview, and a Preview menu that says what it is drawn at, with a Full option.</li>
+          <li>Window recordings open cropped to the window, and Clear History keeps your snippets.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.15/Nublet-0.25.15.dmg"
+        sparkle:edSignature="dCoLRcDLvkwiUhsBb/18vNy7FraRTg6J96RLEnqSwZMxPZ8wR9nAmN1GVb3dbJflXVDs8Zc2mfjngpzlkUPvAg==" length="87720288"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.14</title>
       <pubDate>Wed, 04 Nov 2026 22:44:15 +0700</pubDate>
       <sparkle:version>339</sparkle:version>
