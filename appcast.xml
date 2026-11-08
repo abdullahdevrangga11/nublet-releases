@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.25.17</title>
+      <pubDate>Mon, 09 Nov 2026 02:56:57 +0700</pubDate>
+      <sparkle:version>342</sparkle:version>
+      <sparkle:shortVersionString>0.25.17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Detailed TikTok and Instagram safe areas on the preview, never in the export.</li>
+          <li>Record an iPhone or iPad screen over USB, and choose which apps' sound to record.</li>
+          <li>Press ⌘S in Measure to save a screenshot with the numbers on it.</li>
+          <li>A calmer Export sheet, smoother close zooms and better gradients.</li>
+          <li>Fixed a memory leak in on-device speech that could grow over long sessions.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.17/Nublet-0.25.17.dmg"
+        sparkle:edSignature="3PMGmPvwx/XQYXJj+XQXOGaxDXL+XE8Cn8ezfCJ42bXbQ+yZz6RsF2Oz717TAp0B/18JLny3AF9nSYClHFlGBg==" length="88225213"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.16</title>
       <pubDate>Thu, 05 Nov 2026 16:18:53 +0700</pubDate>
       <sparkle:version>341</sparkle:version>
