@@ -24,6 +24,25 @@
     -->
 
     <item>
+      <title>0.25.19</title>
+      <pubDate>Mon, 09 Nov 2026 13:20:44 +0700</pubDate>
+      <sparkle:version>344</sparkle:version>
+      <sparkle:shortVersionString>0.25.19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Area capture now finds cards, paragraphs, sidebars and images in apps that don't report what's inside them, such as the Yab browser.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.19/Nublet-0.25.19.dmg"
+        sparkle:edSignature="K0wJEC7D3cWj4jR+AM3lmlq13FPGcbUuoayHbkfMK8YaVJai21PF9piqllUDpiF8KlyUtkWNl5D4FH3LXw6/CQ==" length="88287852"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.18</title>
       <pubDate>Mon, 09 Nov 2026 11:46:31 +0700</pubDate>
       <sparkle:version>343</sparkle:version>
