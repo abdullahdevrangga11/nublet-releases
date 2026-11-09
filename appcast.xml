@@ -24,6 +24,26 @@
     -->
 
     <item>
+      <title>0.25.20</title>
+      <pubDate>Mon, 09 Nov 2026 14:55:41 +0700</pubDate>
+      <sparkle:version>345</sparkle:version>
+      <sparkle:shortVersionString>0.25.20</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Delete left, Delete right, deleting a clip and dragging a clip's edge now move the Layout lane along with the footage.</li>
+          <li>Settings and onboarding say Media.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.20/Nublet-0.25.20.dmg"
+        sparkle:edSignature="AIlqdJU8kmLysh/IX4Z4J74Nj1cVc1gqeak5Oa4Z/9n3vW6I2NbK31nzuhx3IsqSsS18Q4M2fSs7C5wVrj+yAg==" length="88292978"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.19</title>
       <pubDate>Mon, 09 Nov 2026 13:20:44 +0700</pubDate>
       <sparkle:version>344</sparkle:version>
