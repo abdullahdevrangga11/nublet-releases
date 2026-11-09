@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.25.18</title>
+      <pubDate>Mon, 09 Nov 2026 11:46:31 +0700</pubDate>
+      <sparkle:version>343</sparkle:version>
+      <sparkle:shortVersionString>0.25.18</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>A new toolbar above the timeline: Split, Delete left, Delete right, Delete, markers and the Select tools.</li>
+          <li>New keys: ⌘B splits, Q and W delete either side of the playhead.</li>
+          <li>Clicking the Words row selects that piece of footage, so Delete removes what you clicked.</li>
+          <li>Remove silences no longer runs off the bottom of the window.</li>
+          <li>Scroll up and down over the timeline's rows, not only over their names.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.25.18/Nublet-0.25.18.dmg"
+        sparkle:edSignature="U9YWbS7swdblYZGEVGmSBvXfYAItjbySInFzoCy6iYqS4hEBGtwEZuvqY2J9k4uxbT3ZHFdR8fky4oVtvQYVDw==" length="88255093"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.17</title>
       <pubDate>Mon, 09 Nov 2026 02:56:57 +0700</pubDate>
       <sparkle:version>342</sparkle:version>
