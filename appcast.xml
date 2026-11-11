@@ -24,6 +24,30 @@
     -->
 
     <item>
+      <title>0.26.0</title>
+      <pubDate>Thu, 12 Nov 2026 05:51:34 +0700</pubDate>
+      <sparkle:version>346</sparkle:version>
+      <sparkle:shortVersionString>0.26.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Inspect in Measure: read any element's size, spacing, colours and contrast, find every issue in a window, and copy elements for an agent.</li>
+          <li>Two cameras: swap them in one click, switch to whoever is talking, and export each as its own file.</li>
+          <li>New recordings cast realistic shadows.</li>
+          <li>Animated gradient backgrounds and 154 presets, with a new Vivid set.</li>
+          <li>Timeline tools explain themselves on hover, and Settings' sidebar floats.</li>
+          <li>The notch opens when the pointer is at the very top of the screen.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.26.0/Nublet-0.26.0.dmg"
+        sparkle:edSignature="ABJOVzAu3ifEcKCI4oGRJm8Ay2fU8ugyICYeNN59xuOpQLpFtZ2TlwX7uMdcFFLn86MXX8MVeyXA0QMhIc8iBQ==" length="88640697"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.25.20</title>
       <pubDate>Mon, 09 Nov 2026 14:55:41 +0700</pubDate>
       <sparkle:version>345</sparkle:version>
