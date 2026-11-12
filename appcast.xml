@@ -24,6 +24,30 @@
     -->
 
     <item>
+      <title>0.27.0</title>
+      <pubDate>Thu, 12 Nov 2026 19:43:29 +0700</pubDate>
+      <sparkle:version>347</sparkle:version>
+      <sparkle:shortVersionString>0.27.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Copy for Agent gives coding agents something to search for: role, selector hint, id, classes, identifier and text.</li>
+          <li>Approve from the notch in Codex, Copilot CLI, Cursor, Antigravity CLI and CodeBuddy Code.</li>
+          <li>Realistic shadows that show, and two-camera takes laid out with both cameras beside the screen.</li>
+          <li>79 gradients, each distinct, with three new families.</li>
+          <li>Sliders drag from anywhere, shorter tooltips, and Remove noise on for new recordings.</li>
+          <li>The speech model is no longer rebuilt every few minutes on a nearly full disk.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.27.0/Nublet-0.27.0.dmg"
+        sparkle:edSignature="XWjuI39aadS02fgcVDHtj/8KD3eTQg8vp7LcdEEHQ+tIletuO7B7pji/IaicybJhIl7YlFCJ3L7RqobXCY6fCA==" length="88913685"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.26.0</title>
       <pubDate>Thu, 12 Nov 2026 05:51:34 +0700</pubDate>
       <sparkle:version>346</sparkle:version>
