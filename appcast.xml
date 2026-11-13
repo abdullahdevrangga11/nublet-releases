@@ -24,6 +24,30 @@
     -->
 
     <item>
+      <title>0.27.1</title>
+      <pubDate>Fri, 13 Nov 2026 13:36:57 +0700</pubDate>
+      <sparkle:version>348</sparkle:version>
+      <sparkle:shortVersionString>0.27.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Measure ▸ Inspect, rebuilt: box model drawn, ⌥ distances and pins, step through boxes, multi-select, every box by kind, rulers and layout guides.</li>
+          <li>Copy for Agent writes a block per box: selector, text, size, box, type and colours, and what is wrong.</li>
+          <li>Exact CSS in browsers: the page's own padding, margin, type and rules, when switched on in Settings.</li>
+          <li>Dictation runs on the Neural Engine: faster, far less memory, and no crash after launch.</li>
+          <li>Realistic shadows only; the 80 older wallpapers leave the Background tab.</li>
+          <li>The Dev page's session list scrolls.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.27.1/Nublet-0.27.1.dmg"
+        sparkle:edSignature="JKRl0IbPrSw0KZmh9ypHv8nWsjg2zGnDRfGMWprcbQGqhx1ihO80SEGbkHaEPNpGQ7WgLk8rTs8Vmswh+g8SDw==" length="89286330"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.27.0</title>
       <pubDate>Thu, 12 Nov 2026 19:43:29 +0700</pubDate>
       <sparkle:version>347</sparkle:version>
