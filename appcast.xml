@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.28.0</title>
+      <pubDate>Sun, 15 Nov 2026 22:03:56 +0700</pubDate>
+      <sparkle:version>349</sparkle:version>
+      <sparkle:shortVersionString>0.28.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Share links for Studio videos, served from your own Cloudflare account, with previews, views, passwords and expiry.</li>
+          <li>Approve from the notch in seven more coding agents, and jump to the exact tab, split or tmux pane.</li>
+          <li>8-bit alert sounds for approvals, questions and finished runs.</li>
+          <li>Inspect: ⌘C copies the words, ⇧⌘C the pictures; kept boxes are saved; agents can reply to them over MCP.</li>
+          <li>Layout transitions: choose how each layout change moves, from a cut to a spring.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.28.0/Nublet-0.28.0.dmg"
+        sparkle:edSignature="S/LxxxtdnnGQmyWrlxUc9ve0vZQ23HYhwkSUUZPtQN5lG8+wtFIdQ5YNN0nA8jh0IshdUZe6264xLFRRR1P9Dw==" length="90121436"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.27.1</title>
       <pubDate>Fri, 13 Nov 2026 13:36:57 +0700</pubDate>
       <sparkle:version>348</sparkle:version>
