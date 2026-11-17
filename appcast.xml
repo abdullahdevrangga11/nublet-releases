@@ -24,6 +24,29 @@
     -->
 
     <item>
+      <title>0.29.0</title>
+      <pubDate>Tue, 17 Nov 2026 16:00:30 +0700</pubDate>
+      <sparkle:version>350</sparkle:version>
+      <sparkle:shortVersionString>0.29.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Ten new Studio timeline tools: nudge, mute and solo, loop, close gaps, collapse rows, copy and paste style, mic and system fades, a cover frame, freeze frame and speed ramps.</li>
+          <li>Track headers to lock, hide or mute a row, and a full preview of the picture alone.</li>
+          <li>Set as Default: start every new recording with your look.</li>
+          <li>The magnifier moves like a real lens, with a soft shadow and a glass edge.</li>
+          <li>A meeting reminder opens inside the notch; lyrics and the timer clock sit clear of its edges.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.29.0/Nublet-0.29.0.dmg"
+        sparkle:edSignature="kxw1U3F1OR/dA1Z8RcGNmH5P+BVAEs/ipVopQs1YoLuXy/JGmAq5Af2uLXOQ5l5fq89Tjf+T0+h/FKLh2SoGDQ==" length="76615422"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.28.0</title>
       <pubDate>Sun, 15 Nov 2026 22:03:56 +0700</pubDate>
       <sparkle:version>349</sparkle:version>
