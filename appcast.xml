@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.30.0</title>
+      <pubDate>Thu, 19 Nov 2026 20:54:24 +0700</pubDate>
+      <sparkle:version>351</sparkle:version>
+      <sparkle:shortVersionString>0.30.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>A shorter setup that shows the pages you'll use, with Pro offered when you reach a Pro feature.</li>
+          <li>The magnifier is a glass dome: its rim bends the picture, parts the colours and catches the light.</li>
+          <li>Q and W with nothing selected delete everything left or right of the playhead, on every track.</li>
+          <li>The voice model loads when you first dictate, and the notch uses less CPU while an agent works.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.30.0/Nublet-0.30.0.dmg"
+        sparkle:edSignature="TqyHuuM6yHOvhDn3Z8PKiyc5TMkVLGyY1EeZWir4/Jn+mjj63nvFshPjzYnV/nrV1HE+ROclHAFusNLmKCmrDQ==" length="76626128"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.29.0</title>
       <pubDate>Tue, 17 Nov 2026 16:00:30 +0700</pubDate>
       <sparkle:version>350</sparkle:version>
