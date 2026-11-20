@@ -24,6 +24,28 @@
     -->
 
     <item>
+      <title>0.31.0</title>
+      <pubDate>Fri, 20 Nov 2026 19:39:36 +0700</pubDate>
+      <sparkle:version>352</sparkle:version>
+      <sparkle:shortVersionString>0.31.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+      <description><![CDATA[
+        <p>Requires macOS 14.6 or later.</p>
+        <ul>
+          <li>Agents' questions wait in line, and the other agents fold away while one asks.</li>
+          <li>Long screenshots are seamless: a chat's message bar appears once, not at every seam.</li>
+          <li>Studio: spring layout changes, a cleaner Layout page, click to deselect, ⓘ on hover.</li>
+          <li>A tidier setup, and Updates back in Settings ▸ About.</li>
+        </ul>
+        <p>The full notes are in Settings ▸ About ▸ Release Notes.</p>
+      ]]></description>
+      <enclosure
+        url="https://github.com/abdullahdevrangga11/nublet-releases/releases/download/v0.31.0/Nublet-0.31.0.dmg"
+        sparkle:edSignature="rIt3IzVvtSrFFSQxphQvzGiXpMZwUOzzZzCbSg/fEK7735AfT73R1OIALB5LrPJ2/1DxNtH0Dzq2BLxrI9eSBQ==" length="76718159"
+        type="application/octet-stream" />
+    </item>
+
+    <item>
       <title>0.30.0</title>
       <pubDate>Thu, 19 Nov 2026 20:54:24 +0700</pubDate>
       <sparkle:version>351</sparkle:version>
